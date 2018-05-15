@@ -8,14 +8,22 @@ Installation instructions can be found on https://www.nsnam.org/wiki/Installatio
 Sturcture of ns-3 program
 
 int main (int argc, char *argv[]) {
+
 // Set default attribute values
+
 // Parse command-line arguments
-// Configure the topology; nodes, channels, devices,
-mobility
+
+// Configure the topology; nodes, channels, devices, mobility
+
 // Add (Internet) stack to nodes
+
 // Configure IP addressing and routing
+
 // Add and configure applications
+
 // Configure tracing
+
 // Run simulation
+
 }
 
